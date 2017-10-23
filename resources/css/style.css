@@ -1,3 +1,34 @@
-.title {
+html {
 	text-align: center;
+	font-family: Verdana;
+}
+body {
+	background-color: black;
+}
+h1,
+h2 {
+	color: white;
+}
+h3 {
+	color: aquamarine;
+	font-size: 16px;
+}
+.travel p {
+	color: gray;
+	font-size: 21px;
+}
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+.title {
+	font-size: 50px;
+	font-weight: normal;
+}
+.comingdownload {
+	color: aquamarine;
+}
+#botright h3 {
+	color: grey;
+	text-align: right;
 }
